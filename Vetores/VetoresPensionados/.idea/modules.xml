@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VetoresPensionados.iml" filepath="$PROJECT_DIR$/.idea/VetoresPensionados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresPensionato/vetoresPensionato.iml" filepath="$PROJECT_DIR$/vetoresPensionato/vetoresPensionato.iml" />
+    </modules>
+  </component>
+</project>
