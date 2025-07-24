@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curingas.iml" filepath="$PROJECT_DIR$/.idea/Curingas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curingas/curingas.iml" filepath="$PROJECT_DIR$/curingas/curingas.iml" />
+    </modules>
+  </component>
+</project>
